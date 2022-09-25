@@ -28,11 +28,11 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Wassersport",
-        "featureText": "feature text jo",
+        "featureText": "Your featured text goes here",
         "index": {
             "title": "",
             "metaDescription": "",
-            "robots": "",
+            "robots": "nofollow, noindex",
             "texts": [{
                     "title": "Title of a SEO Text",
                     "text": "Text of a SEO Text"
@@ -46,18 +46,18 @@
         "shop": {
             "title": "",
             "metaDescription": "",
-            "robots": ""
+            "robots": "nofollow, noindex"
         },
         "hersteller": {
             "title": "",
             "metaDescription": "",
-            "robots": ""
+            "robots": "nofollow, noindex"
         }
     },
     "productSeo": {
         "defaultTitle": "",
         "defaultMetaDescription": "",
-        "defaultRobots": "",
+        "defaultRobots": "nofollow, noindex",
         "products": [{
             "sku": "5637909794",
             "name": "Ortovox PALA PANTS Kletterhose",
@@ -71,7 +71,7 @@
     "categorySeo": {
         "defaultTitle": "",
         "defaultMetaDescription": "",
-        "defaultRobots": "",
+        "defaultRobots": "nofollow, noindex",
         "categories": [{
             "key": "sporthosen",
             "slug": "sporthosen",
@@ -95,7 +95,7 @@
     "brandSeo": {
         "defaultTitle": "",
         "defaultMetaDescription": "",
-        "defaultRobots": "",
+        "defaultRobots": "nofollow, noindex",
         "brands": [{
             "key": "palm",
             "name": "Palm",

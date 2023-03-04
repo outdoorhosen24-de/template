@@ -4,12 +4,14 @@
         "name": "Insektenschutz",
         "slug": "insektenschutz",
         "productCategory": "Insektenschutz",
-        "subCategories": ["fliegengitterturen"]
+        "subCategories": [
+            "fliegengitterturen"
+        ]
     },
     {
         "key": "fliegengittertüren",
         "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
+        "slug": "fliegengittertueren",
         "productCategory": "Fliegengittertüren",
         "subCategories": []
     },
@@ -37,7 +39,7 @@
     {
         "key": "lamellenvorhänge",
         "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
+        "slug": "lamellenvorhaenge",
         "productCategory": "Lamellenvorhänge",
         "subCategories": []
     },
@@ -65,7 +67,7 @@
     {
         "key": "fenstervorhänge",
         "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
+        "slug": "fenstervorhaenge",
         "productCategory": "Fenstervorhänge",
         "subCategories": []
     },
@@ -79,14 +81,14 @@
     {
         "key": "insektenschutzzubehör",
         "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
+        "slug": "insektenschutzzubehoer",
         "productCategory": "Insektenschutzzubehör",
         "subCategories": []
     },
     {
         "key": "türdichtungen & fensterdichtungen",
         "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
+        "slug": "tuerdichtungen-fensterdichtungen",
         "productCategory": "Türdichtungen & Fensterdichtungen",
         "subCategories": []
     },

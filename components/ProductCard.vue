@@ -37,8 +37,8 @@
           <span>Bewertung</span>
           <div class="mb-1 mt-3">
             <small
-              v-for="(star, index) in product.stars"
-              :key="index"
+              v-for="star in product.stars"
+              :key="star"
               class="pl-3 fa fa-star text-primary"
             ></small>
             <small
@@ -53,7 +53,7 @@
       </ul>
       <div class="sidebar-contact-info mt-4">
         <p class="mb-0">Preis</p>
-        <h3>{{ parseFloat(product.price).toFixed(2) }} EUR</h3>
+        <div class="h3">{{ parseFloat(product.price).toFixed(2) }} EUR</div>
       </div>
     </div>
   </div>
